@@ -12,7 +12,7 @@ A minimalist to-do list application inspired by Apple's design philosophy.
 
 In an era of information overload, OneDot was created to be a tranquil space for your thoughts. It strips away all non-essential features, allowing you to focus purely on your tasks. This project is my debut application, a journey into creating tools that are not only functional but also a delight to use.
 
-在信息过载的时代，OneDot 旨在为你打造一个宁静的思想空间。它剥离了所有非核心功能，让你能纯粹地专注于待办事项。这个项目是我的处女作，也是一次探索之旅——创造出既实用又赏心悦目的工具。
+在信息过载的时代，OneDot 旨在为你打造一个宁静的思想空间。它剥离了所有非核心功能，让你能纯粹地专注于待办事项。这个项目是我的首份作品，也是一次探索之旅——创造出既实用又赏心悦目的工具。
 
 -----
 
